@@ -1,3 +1,3 @@
 # swagger-example
 
- Showroom app in django to showcase swagger integration with django
+ Showroom application to showcase swagger integration with django
